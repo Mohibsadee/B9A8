@@ -1,0 +1,80 @@
+[
+  {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://www.theliterarygiftcompany.com/cdn/shop/products/the-great-gatsby-poster-674-p.jpeg?v=1457991397",
+      "genre": "Fiction",
+      "tags": ["#Classic", "#1920s"],
+      "plot": "A story about the mysterious Jay Gatsby and the Roaring Twenties.",
+      "rating": 5.00,
+      "pages": 218,
+      "publisher": "Scribner",
+      "year": 1925
+  },
+  {
+      "id": 2,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://media.glamour.com/photos/56e1f3c562b398fa64cbd310/master/w_1600%2Cc_limit/entertainment-2016-02-07-main.jpg",
+      "genre": "Drama",
+      "tags": ["#Civil Rights", "#Law", "#Racism"],
+      "plot": "A lawyer defends an innocent black man accused of a crime in a racially charged trial.",
+      "rating": 4.75,
+      "pages": 324,
+      "publisher": "J.B. Lippincott & Co.",
+      "year": 1960
+  },
+  {
+      "id": 3,
+      "name": "1984",
+      "author": "George Orwell",
+      "image": "https://i0.wp.com/www.robinmalau.com/wp-content/uploads/2008/04/1984.jpg?w=840",
+      "genre": "Dystopian",
+      "tags": ["#Totalitarianism", "#Surveillance", "#Politics"],
+      "plot": "A chilling depiction of a totalitarian regime and the dangers of authoritarianism.",
+      "rating": 4.90,
+      "pages": 328,
+      "publisher": "Secker & Warburg",
+      "year": 1949
+  },
+  {
+      "id": 4,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://m.media-amazon.com/images/I/812wzoJvRLL._AC_UF1000,1000_QL80_.jpg",
+      "genre": "Romance",
+      "tags": ["#Classic", "#Love", "#Society"],
+      "plot": "A witty exploration of manners, marriage, and social expectations in Georgian England.",
+      "rating": 4.50,
+      "pages": 432,
+      "publisher": "T. Egerton, Whitehall",
+      "year": 1813
+  },
+  {
+      "id": 5,
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.harperapps.com/hcanz/covers/9780007458424/x293.jpg",
+      "genre": "Fantasy",
+      "tags": ["#Adventure", "#Magic", "#Epic"],
+      "plot": "Bilbo Baggins embarks on a perilous journey to help a group of dwarves reclaim their home.",
+      "rating": 5.00,
+      "pages": 310,
+      "publisher": "George Allen & Unwin",
+      "year": 1937
+  },
+  {
+      "id": 6,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/bbb321965d9babe53d457ffedf2111f6.jpg_720x720q80.jpg",
+      "genre": "Fiction",
+      "tags": ["#Coming-of-age", "#Classic", "#Rebellion"],
+      "plot": "The experiences of a teenage boy struggling with identity, belonging, and alienation.",
+      "rating": 4.00,
+      "pages": 277,
+      "publisher": "Little, Brown and Company",
+      "year": 1951
+  }
+]
